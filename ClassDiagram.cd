@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pawn">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAhAAAAAAAAAAAAAAAAAAABgAAAABAA=</HashCode>
+      <FileName>Pawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queen">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAABgAAAgBAA=</HashCode>
+      <FileName>Queen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAJgAAAABAA=</HashCode>
+      <FileName>Horse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessFigure">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAZAAAAAAAAAAAAAAAAAYABgAEAABAA=</HashCode>
+      <FileName>ChessFigure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
